@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+selenium==3.9.0
+apscheduler==3.9.1
+requests==2.24.0
