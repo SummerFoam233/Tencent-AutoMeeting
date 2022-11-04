@@ -48,4 +48,5 @@ Python 3.8.x
 
 ## 😅下载说明
 
-打包进行中...
+请在Github Release中下载可执行的64位EXE文件：[链接](https://github.com/SummerFoam233/Tencent-AutoMeeting/releases/tag/v.1.0.0-beta)
+

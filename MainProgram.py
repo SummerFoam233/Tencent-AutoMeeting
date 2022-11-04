@@ -4,7 +4,6 @@ from PyQt5.QtCore import *
 import time
 from selenium import webdriver
 import sys
-import schedule
 from datetime import datetime
 from apscheduler.schedulers.blocking import BlockingScheduler
 import os
