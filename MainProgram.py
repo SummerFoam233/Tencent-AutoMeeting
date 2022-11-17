@@ -47,7 +47,7 @@ class LoadWin(QtWidgets.QMainWindow,Ui_LoadingWindow):
     def timerEvent(self, *args, **kwargs):
         self.progressBar.setValue(self.step)
         if self.step < 100:
-            self.step += 1
+            self.step+=1
             
     def show_main_win(self):
         self.mainwindow.show()
